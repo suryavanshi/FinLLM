@@ -10,7 +10,7 @@ Features:
 
 ![FinLLM Logo](https://i.ibb.co/ryRCKvc/Screenshot-2023-10-07-at-16-52-49.png)
 
-This README provides an overview of the PELLM project and can be added to the project's GitHub repository to provide information to visitors and potential collaborators.
+This README provides an overview of the FinLLM project and can be added to the project's GitHub repository to provide information to visitors and potential collaborators.
 
 # Technology used
 
