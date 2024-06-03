@@ -8,7 +8,6 @@ Features:
 - Generative research: Generate and query investment memos
 - Generative compliance: Generate and query regulatory filings
 
-![FinLLM Logo](https://i.ibb.co/ryRCKvc/Screenshot-2023-10-07-at-16-52-49.png)
 
 This README provides an overview of the FinLLM project and can be added to the project's GitHub repository to provide information to visitors and potential collaborators.
 
