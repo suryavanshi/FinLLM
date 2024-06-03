@@ -19,7 +19,7 @@ This README provides an overview of the PELLM project and can be added to the pr
 ![FinLLM Logo](https://ml.globenewswire.com/Resource/Download/3034f6cd-48c3-4b5e-bd7f-242dbaecaab4?size=2)
 
 # User Guide
-To run, first add your OpenAI API key and Pinecone API key to your environment and install the requirements. To run the streamlit demo run: streamlit run st_pellm_demo.py
+To run, first add your OpenAI API key and Pinecone API key to your environment and install the requirements. To run the streamlit demo run: streamlit run st_finllm_demo.py
 
 ```python
 llm = OpenAI(model="gpt-3.5-turbo")
